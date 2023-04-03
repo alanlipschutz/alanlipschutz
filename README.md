@@ -16,3 +16,4 @@ Contact me!
 
 Languages and Tools:
 
+<img src="https://user-images.githubusercontent.com/80393050/229476010-e0583c27-8a82-42d5-ad1c-986e305156c1.png" width="40" height="40" />
