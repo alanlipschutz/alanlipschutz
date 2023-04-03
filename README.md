@@ -35,3 +35,5 @@ Languages and Tools:
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanlipschutz&layout=compact)](https://github.com/alanlipschutz/github-readme-stats)
