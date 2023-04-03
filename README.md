@@ -37,3 +37,4 @@ Languages and Tools:
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanlipschutz&layout=compact)](https://github.com/alanlipschutz/github-readme-stats)
+
